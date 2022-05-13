@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* outline: 1px solid red; */
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    background: black;
+    color: white;
+}
+
+img{
+    width: 250px;
+    height: 225px;
+    margin: 0 40%;
+    padding-bottom: 2%;
+}
+
+h1{
+    font-size: 3rem;
+    text-align: center;
+    width: 100%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+h1:hover{
+    color: white;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+    margin-left: 40%;
+}
+
+li{
+    font-size: 2rem;
+    display: block;
+    text-align: center;
+    padding: 2%;
+    border: 2px solid black;
+    width: 25%;
+    font-family: 'Shizuru', cursive;
+}
