@@ -8,7 +8,6 @@ This simple project was made to practice with the DOM in JavaScript in conjuncti
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Tests](#tests)
 - [Questions](#questions)
   <a name="installation"></a>
 
